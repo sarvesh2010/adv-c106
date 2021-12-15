@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.heading{
+    background-color: rgba(70, 70, 70, 0.993);
+}
+.start{
+    color:red;
+    background-color: red;
+}
